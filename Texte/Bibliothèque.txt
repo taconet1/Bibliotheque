@@ -1,0 +1,8 @@
+9782081375468;VO;La Belle et la Bˆte;1;Conte-type;Francaise;inconnue;14/6/2017;Librio;128;7;1 3 5 4 4 5 2;3.42;disponible
+9782258100558;VO;Le Comte de Monte-Cristo;1;Roman-feuilleton;Francais;inconnue;-1/-1/1844;Journal des debats;912;0;-1;-1;disponible
+9782070613588;VT;Le Petit Chaperon rouge;2;Conte en prose,Conte;Francais;inconnue;-1/-1/1697;Claude Barbin;32;0;-1;-1;disponible
+9782290173480;VT;Le livre de la jungle;1;Literrature d'enfance et de jeunesse;Francaise;inconnue;-1/-1/1899;Societe du 'Mercure de France';102;0;-1;-1;disponible
+9782012023000;VO;Raiponce;1;Conte;Allemande;inconnue;10/5/2017;Hachette Disney;80;6;5 4 3 3 5 4.3;4.05;emprunte
+9780486474915;VO;The Adventures of Sherlock Holmes;1;Roman policier;Anglais;inconnue;-1/-1/1892;George Newnes;307;0;-1;-1;disponible
+9782070367832;VO;The Jungle Book;1;Litterature d'enfance et de jeunesse;Anglais Britannique;inconnue;-1/-1/1894;Macmillan Publishers;102;0;-1;-1;disponible
+9786041000698;VO;Toi thay hoa vang tren co xanh;2;Conte,Roman;Vietnamienne;N7NVgh5;9/12/2010;Nha xuat ban tre;378;0;-1;-1;disponible

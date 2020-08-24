@@ -1,0 +1,7 @@
+﻿  biblio.cpp
+C:\Users\dell\Desktop\TP2.3_2.5_TACONET_COUZON_G1B\cpp\biblio.cpp(591,35): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\dell\Desktop\TP2.3_2.5_TACONET_COUZON_G1B\cpp\biblio.cpp(1420,26): warning C4101: 'code' : variable locale non référencée
+C:\Users\dell\Desktop\TP2.3_2.5_TACONET_COUZON_G1B\cpp\biblio.cpp(1628,36): warning C4101: 'position_livre' : variable locale non référencée
+  main.cpp
+  Génération de code en cours...
+  Test.vcxproj -> C:\Users\dell\Desktop\TP2.3_2.5_TACONET_COUZON_G1B\x64\Debug\Test.exe

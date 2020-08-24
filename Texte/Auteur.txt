@@ -1,0 +1,11 @@
+Aaa;Aaa;Aaa;3/3/3;-1/-1/-1;0;A3AAaaa3
+Conan Doyle;Arthur;Britannique;22/5/1859;7/7/1930;1;C22ABorr5
+Dumas;Alexandre;Francaise;24/7/1802;5/12/1870;1;D24AFurl7
+Fabulet;Louis;Francaise;20/1/1862;30/3/1933;1;F20LFaro1
+Grimm;Jacob;Allemande;4/1/1785;20/9/1863;1;G4JArla1
+Johnson;Craig;Am‚ricaine;1/2/1961;-1/-1/-1;0;J1CAomr2
+Johnson;James Weldon;Am‚ricaine;17/6/1871;26/6/1938;0;J17JAoma6
+Kipling;Rudyard;Britannique;30/12/1865;18/1/1936;1;K30RBiru12
+Leprince de Beaumont;Jeanne-Marie;Francaise;26/4/1711;8/9/1780;1;L26JFere4
+Nguyen;Nhat Anh;Vietnamienne;7/5/1955;-1/-1/-1;1;N7NVgih5
+Perrault;Charles;Francaise;12/1/1628;16/5/1703;1;P12CFerh1
